@@ -1,5 +1,5 @@
 import { json } from "body-parser";
-import {Request, response, Response} from "express";
+import {Request, Response} from "express";
 import { CreateTagService } from "../services/createTagService"
 
 class CreateTagController{
